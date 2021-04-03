@@ -1,3 +1,3 @@
-#  https://mlungisi981020.github.io/Mysite/Personal Portfolio Website/index.html
+#  https://mlungisi981020.github.io/Mysite/index.html
 
 My Portfilio 
